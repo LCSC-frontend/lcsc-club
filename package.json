@@ -1,7 +1,7 @@
 {
-   "name": "club",
-   "version": "1.0.0",
-    "dependencies": {
+  "name": "club",
+  "version": "1.0.0",
+  "dependencies": {
     "@babel/polyfill": "^7.4.4",
     "egg": "^2.6.1",
     "egg-alinode": "^2.0.1",
@@ -28,7 +28,7 @@
     "egg-ci": "^1.8.0",
     "egg-mock": "^3.16.0",
     "egg-ts-helper": "^1.23.0",
-    "egg-webpack": "^4.4.9",
+    "egg-webpack": "^4.5.1",
     "html-withimg-loader": "^0.1.16",
     "imagemin-webpack-plugin": "^2.4.0",
     "node-sass": "^4.11.0",
